@@ -1,0 +1,79 @@
+.page-header h1 {
+	font-family: Verdana, Sans-Serif;
+	color: black;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 30px;
+	margin-left: 50px;
+}
+
+body {
+ 	background-image: url("/home/blagolaj/pro/images/33864qko.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+
+
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: #ecdfdf;
+    border: solid 0px #c3c3c3;
+}
+
+
+#panel {
+	margin-bottom: -17px;
+    padding: 20px;
+    display: none;
+
+}
+
+.sams {
+	padding-top : 80px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.sams, .budism-elements {
+
+	font-family: Verdana, Sans-Serif;
+	font-size: 16px;
+	display: none;
+	float: left;
+}
+
+.budism-elements {
+
+}
+
+#spiritsamurai  {
+	display: none;
+	padding-top: 30px;
+	float: right;
+}
+
+
+.explain {
+	display: none;
+	font-size: 16px;
+}
+
+#old-man {
+	display: none;
+}
+
+
+.thought {
+	font-size: 18px;
+	font-style: italic;
+	padding-top: 440px;
+}
+
+.menu {
+
+	font-size: 17px;
+}
